@@ -1,2 +1,4 @@
 TESTE NA MASTER
 *****ERRO******
+
+Alteração em 'dev'
